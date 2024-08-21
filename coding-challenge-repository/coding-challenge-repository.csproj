@@ -51,6 +51,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="problem_set_1\ReadMe.md" />
+    <None Include="problem_set_2\ReadMe.md" />
+    <None Include="problem_set_3\ReadMe.md" />
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
